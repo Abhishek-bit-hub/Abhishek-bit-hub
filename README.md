@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abhishek Payra
 
-<img align="right" width="300"
+<img align="center" width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 🎓 MCA Student | 💻 Aspiring Software Developer  
