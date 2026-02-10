@@ -12,5 +12,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+
+
+
+<img align="right" width="300" src="coder.gif" />
 
